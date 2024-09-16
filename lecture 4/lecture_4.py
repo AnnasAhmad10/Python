@@ -41,7 +41,7 @@ new_dic = {"unit" : "A block"}
 student.update(new_dic)
 print(student)
 
-sets
+#sets
 version = {2,3,3,4,5}
 print(type(version))
 version.pop()
