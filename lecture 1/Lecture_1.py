@@ -8,5 +8,5 @@ is
 name = str(input("enter your name:"))
 print(name)
 print(type(name))
-name:int="sadaqat"
+name:int="Annas"
 print(name)
